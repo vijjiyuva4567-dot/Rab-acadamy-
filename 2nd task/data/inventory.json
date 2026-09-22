@@ -1,0 +1,20 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Laptop",
+        "price": 55000.0,
+        "quantity": 8,
+        "product_type": "physical",
+        "weight": 1.5,
+        "shipping_cost": 500.0
+    },
+    {
+        "product_id": "D001",
+        "name": "Python Programming Course",
+        "price": 1999.0,
+        "quantity": 8,
+        "product_type": "digital",
+        "file_size": 850.0,
+        "download_url": "https://example.com/python-course"
+    }
+]

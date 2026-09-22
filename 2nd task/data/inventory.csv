@@ -1,0 +1,3 @@
+product_id,name,price,quantity,product_type,weight,shipping_cost,file_size,download_url
+P001,Laptop,55000.0,8,physical,1.5,500.0,,
+D001,Python Programming Course,1999.0,8,digital,,,850.0,https://example.com/python-course
