@@ -1,0 +1,38 @@
+==========================================
+AUTOMATED WEB SCRAPING ETL REPORT
+==========================================
+
+Source
+------------------------------------------
+Books to Scrape
+https://books.toscrape.com/
+
+Pages Scraped      : 50
+Total Books        : 1000
+Execution Time     : 93.71 seconds
+
+PRICE STATISTICS
+------------------------------------------
+Average Price      : £35.07
+Minimum Price      : £10.00
+Maximum Price      : £59.99
+
+RATING DISTRIBUTION
+------------------------------------------
+1 Star             : 226 books
+2 Star             : 196 books
+3 Star             : 203 books
+4 Star             : 179 books
+5 Star             : 196 books
+
+AVAILABILITY
+------------------------------------------
+In stock: 1000
+
+OUTPUT FILES
+------------------------------------------
+CSV  : data\books.csv
+JSON : data\books.json
+REPORT : reports\summary_report.txt
+
+==========================================
